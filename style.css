@@ -1,0 +1,29 @@
+li {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #2a2a2a;
+  }
+
+  li {
+    font-size: 1.6rem;
+    line-height: 1.5;
+  }
+  header {
+    margin-bottom: 10px;
+    display: flex;
+    flex-flow: row wrap;
+  }
+
+  h1 {
+    font-size: 80px;
+    text-align: center;
+  }
+  p {
+    font-size: 20px;
+  }
+  html{
+    background-color: aqua;
+  }
+
+  .shopitems {
+    max-width: 70%;
+  }
