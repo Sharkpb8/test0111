@@ -27,3 +27,35 @@ li {
   .shopitems {
     max-width: 70%;
   }
+  .gridc1{
+    font-size: 20px;
+    background-color: crimson;
+  }
+  .gridc2{
+    font-size: 20px;
+    background-color: yellow;
+  }
+  .gridc3{
+    font-size: 20px;
+    background-color: violet;
+  }
+  .gridc4{
+    font-size: 20px;
+    background-color: chartreuse;
+  }
+  .gridc5{
+    font-size: 20px;
+    background-color: tomato;
+  }
+  .gridc6{
+    font-size: 20px;
+    background-color: springgreen;
+  }
+
+  .html2{
+    background-color: burlywood;
+  }
+
+  .html3{
+    background-color: cadetblue;
+  }
